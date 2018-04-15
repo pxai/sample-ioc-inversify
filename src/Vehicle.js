@@ -1,6 +1,7 @@
 class Vehicle {
-  constructor (name) {
+  constructor (name="", payload) {
     this.name = name;
+    this.payload = payload;
   }
 
   move () {

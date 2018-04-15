@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "noder.io": "^1.2.0"
+    "inversify": "^4.11.1",
+    "reflect-metadata": "^0.1.12"
   }
 }
