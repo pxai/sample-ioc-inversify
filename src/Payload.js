@@ -1,6 +1,6 @@
 class Payload {
-  constructor () {
-    this.name = 'Default';
+  constructor (name='Default') {
+    this.name = name;
   }
 
   info () {
